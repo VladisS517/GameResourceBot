@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE properties SYSTEM
+
+        "http://java.sun.com/dtd/properties.dtd">
+
+<properties>
+
+    <entry key="ERROR_UNKNOWN">Ооойй - фатальная ошибка - пожалуйста, ничего не пишите! --> "%s"</entry>
+
+    <entry key="RESOURCE_AND_USER_UNKNOWN">Понятия не имею о таком пользователе и таком ресурсе</entry>
+
+    <entry key="ALREADY_KNOW">Я уже знаю.</entry>
+
+    <entry key="RESOURCE_UNKNOWN">Неизвестный ресурс.</entry>
+
+    <entry key="USERS_LIST_HEADER">Члены партии</entry>
+
+    <entry key="OLDEST_STOCK">Возраст</entry>
+
+    <entry key="POPULATED">Populated</entry>
+
+    <entry key="USER">Пользователь</entry>
+
+    <entry key="DO_NOT_KNOW_ABOUT">Понятия не имею об этом: %s</entry>
+
+    <entry key="RESOURCES_EMPTY">Пусто! Почему бы тебе не пополнить список?</entry>
+
+    <entry key="PONG">Pong!</entry>
+
+    <entry key="NO_DATA">Я здесь ничего не вижу.</entry>
+
+    <entry key="USER_UNKNOWN">Я таких не знаю.</entry>
+
+    <entry key="RAW_MATERIAL">Сырьё</entry>
+
+    <entry key="AMOUNT">Значение</entry>
+
+    <entry key="UPDATED">Обновлено</entry>
+
+    <entry key="COMMANDS">Доступные комманды:</entry>
+
+    <entry key="TOTAL_RESOURCES">Все ресурсы партии</entry>
+
+    <entry key="CDS">This bot is a creation of BlackCraze and Dangercrow.
+
+    Translations by VladisS517.
+
+
+	Codebase:
+
+	https://github.com/BlackCraze/GameResourceBot/
+
+
+	discord dev channel:
+
+	https://discord.gg/e77yjxj
+
+	</entry>
+
+    <entry key="INIT">Connection established! Listening with prefix </entry>
+
+    <entry key="BYE_MSG">Я выключен! Вернусть как можн...</entry>
+
+</properties>
+
